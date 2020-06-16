@@ -19,7 +19,7 @@ Dislikes
 
 Assignment 2 Create a featured vector to accomodate Xray/CT Scan data model
 
-XRAY
+XRAY:
 Patient Name
 Date Of Birth
 Address
